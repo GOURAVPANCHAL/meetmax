@@ -1,0 +1,16 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/signup/page": "/signup",
+  "/login/page": "/login",
+  "/Components/home1/page": "/Components/home1",
+  "/Components/home2/page": "/Components/home2",
+  "/Components/home3/page": "/Components/home3",
+  "/Components/footer/page": "/Components/footer",
+  "/Components/home4/page": "/Components/home4",
+  "/Components/navbar/page": "/Components/navbar",
+  "/Mettings/dashboard/page": "/Mettings/dashboard",
+  "/Mettings/metting/page": "/Mettings/metting",
+  "/Mettings/calendar/page": "/Mettings/calendar",
+  "/Mettings/kanban/page": "/Mettings/kanban"
+}

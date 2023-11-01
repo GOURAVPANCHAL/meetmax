@@ -1,0 +1,16 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/page": "app/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/login/page": "app/login/page.js",
+  "/Components/home1/page": "app/Components/home1/page.js",
+  "/Components/home2/page": "app/Components/home2/page.js",
+  "/Components/home3/page": "app/Components/home3/page.js",
+  "/Components/footer/page": "app/Components/footer/page.js",
+  "/Components/home4/page": "app/Components/home4/page.js",
+  "/Components/navbar/page": "app/Components/navbar/page.js",
+  "/Mettings/dashboard/page": "app/Mettings/dashboard/page.js",
+  "/Mettings/metting/page": "app/Mettings/metting/page.js",
+  "/Mettings/calendar/page": "app/Mettings/calendar/page.js",
+  "/Mettings/kanban/page": "app/Mettings/kanban/page.js"
+}

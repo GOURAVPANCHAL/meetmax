@@ -1,0 +1,9 @@
+.mettingSection {
+    background-image: url('/public/Image.webp');
+    width: 100%;
+    border-radius: 15px;
+    background-color: #953314;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
